@@ -1,0 +1,8 @@
+{
+  "configuration": [
+    {
+      "purpose": "test",
+      "command": "vlc --fullscreen --play-and-exit \"\\\\192.168.0.135\\Public\\Youtube\\Funny transitions\\_ The Code. - T he Code.-a2528ad9-33a5-4f10-892d-62f4a671f470.mp4\""
+    }
+  ]
+}
